@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-This portfolio contains projects completed for academic, and self-learning purposes.
+This portfolio contains projects completed for self-learning purposes.
 
 ## Projects
 
